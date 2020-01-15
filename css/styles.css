@@ -1,0 +1,26 @@
+/*best practices
+  Selector{property:value;}
+  Put properties in alphabetical order*/
+
+body {
+  background-color: #8bbabb;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #6c7b95;
+  border-width: 7px;
+  width: 5%;
+}
+
+h1, h3 {
+  color: #464159;
+}
+
+img{
+  background-color:#8bbabb;
+}
+.circular{
+  border-radius:100%;
+}
